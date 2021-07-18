@@ -9,6 +9,10 @@ export default (req, res) => {
     {
       url: "https://twitter.com/sarthaktexas",
       tweet: "got a walkthrough earlier today and i’m super excited for this — i’ve been exploring this idea on clubhouse before but macbrennan just turned it into a project Star-struck"
+    },
+    {
+      url: "https://twitter.com/sarthaktexas",
+      tweet: "pranav is cooler than sarthak"
     }
   ]})
 }
